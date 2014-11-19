@@ -1,0 +1,33 @@
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\ImproveDatabaseTest\ChineseCharacterRecognitionSystem\bin\Debug\Database.mdb
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\ImproveDatabaseTest\ChineseCharacterRecognitionSystem\bin\Debug\ChineseCharacterRecognitionSystem.exe.config
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\ImproveDatabaseTest\ChineseCharacterRecognitionSystem\bin\Debug\ChineseCharacterRecognitionSystem.exe
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\ImproveDatabaseTest\ChineseCharacterRecognitionSystem\bin\Debug\ChineseCharacterRecognitionSystem.pdb
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\ImproveDatabaseTest\ChineseCharacterRecognitionSystem\obj\Debug\DemoProject.csprojResolveAssemblyReference.cache
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\ImproveDatabaseTest\ChineseCharacterRecognitionSystem\obj\Debug\MainWindow.baml
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\ImproveDatabaseTest\ChineseCharacterRecognitionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\ImproveDatabaseTest\ChineseCharacterRecognitionSystem\obj\Debug\App.g.cs
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\ImproveDatabaseTest\ChineseCharacterRecognitionSystem\obj\Debug\ChineseCharacterRecognitionSystem_Content.g.cs
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\ImproveDatabaseTest\ChineseCharacterRecognitionSystem\obj\Debug\ChineseCharacterRecognitionSystem_MarkupCompile.cache
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\ImproveDatabaseTest\ChineseCharacterRecognitionSystem\obj\Debug\ChineseCharacterRecognitionSystem.g.resources
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\ImproveDatabaseTest\ChineseCharacterRecognitionSystem\obj\Debug\DempProject.Properties.Resources.resources
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\ImproveDatabaseTest\ChineseCharacterRecognitionSystem\obj\Debug\DemoProject.csproj.GenerateResource.Cache
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\ImproveDatabaseTest\ChineseCharacterRecognitionSystem\obj\Debug\ChineseCharacterRecognitionSystem.exe
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\ImproveDatabaseTest\ChineseCharacterRecognitionSystem\obj\Debug\ChineseCharacterRecognitionSystem.pdb
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\DemoProject\ChineseCharacterRecognitionSystem\bin\Debug\ChineseCharacterRecognitionSystem.exe.config
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\DemoProject\ChineseCharacterRecognitionSystem\obj\Debug\ChineseCharacterRecognitionSystem.exe
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\DemoProject\ChineseCharacterRecognitionSystem\obj\Debug\ChineseCharacterRecognitionSystem.pdb
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\DemoProject\ChineseCharacterRecognitionSystem\bin\Debug\Database.mdb
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\DemoProject\ChineseCharacterRecognitionSystem\bin\Debug\ChineseCharacterRecognitionSystem.exe
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\DemoProject\ChineseCharacterRecognitionSystem\bin\Debug\ChineseCharacterRecognitionSystem.pdb
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\DemoProject\ChineseCharacterRecognitionSystem\obj\Debug\DemoProject.csprojResolveAssemblyReference.cache
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\DemoProject\ChineseCharacterRecognitionSystem\obj\Debug\MainWindow.baml
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\DemoProject\ChineseCharacterRecognitionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\DemoProject\ChineseCharacterRecognitionSystem\obj\Debug\App.g.cs
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\DemoProject\ChineseCharacterRecognitionSystem\obj\Debug\ChineseCharacterRecognitionSystem_Content.g.cs
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\DemoProject\ChineseCharacterRecognitionSystem\obj\Debug\ChineseCharacterRecognitionSystem_MarkupCompile.cache
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\DemoProject\ChineseCharacterRecognitionSystem\obj\Debug\ChineseCharacterRecognitionSystem.g.resources
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\DemoProject\ChineseCharacterRecognitionSystem\obj\Debug\DempProject.Properties.Resources.resources
+C:\Users\Song Lingyi\Documents\Visual Studio 2012\Projects\DemoProject\ChineseCharacterRecognitionSystem\obj\Debug\DemoProject.csproj.GenerateResource.Cache
+C:\Users\Song Lingyi\Desktop\DTW\DTWProject\ChineseCharacterRecognitionSystem\bin\Debug\ChineseCharacterRecognitionSystem.exe.config
+C:\Users\Song Lingyi\Desktop\DTW\DTWProject\ChineseCharacterRecognitionSystem\obj\Debug\ChineseCharacterRecognitionSystem.exe
+C:\Users\Song Lingyi\Desktop\DTW\DTWProject\ChineseCharacterRecognitionSystem\obj\Debug\ChineseCharacterRecognitionSystem.pdb

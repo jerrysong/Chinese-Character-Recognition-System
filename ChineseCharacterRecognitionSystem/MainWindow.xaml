@@ -1,0 +1,98 @@
+﻿<Window x:Class="ChineseCharacterRecognitionSystem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:local="clr-namespace:ChineseCharacterRecognitionSystem"        
+        Title="MainWindow" Height="450" Width="1150" >
+    <Window.Resources>
+        <local:ModeConveter x:Key="ModeConveter"/>
+        <local:SampleBatchConveter x:Key="SampleBatchConveter"/>
+    </Window.Resources>
+    
+    <StackPanel Orientation="Horizontal" >
+        <Border  BorderBrush="Brown" Height="406" Width="406" BorderThickness="3">
+            <Canvas x:Name="PaintPanel" >
+                <Canvas.Background>
+                    <SolidColorBrush Color="White" Opacity="0"/>
+                </Canvas.Background>
+            </Canvas>
+        </Border>        
+        
+        <StackPanel Orientation="Vertical" Margin="25,10,0,0">
+            <Border  BorderBrush="Brown" Width="106" Height="106" BorderThickness="3">
+                <Canvas x:Name="InputCharacterNormalizedPanel" >
+                    <Canvas.Background>
+                        <SolidColorBrush Color="White" Opacity="0"/>
+                    </Canvas.Background>
+                </Canvas>
+            </Border>
+            <Border  BorderBrush="Brown" Width="106" Height="106" Margin="0,15,0,0" BorderThickness="3">
+                <Canvas x:Name="InputCharacterFeaturePointsPanel" >
+                    <Canvas.Background>
+                        <SolidColorBrush Color="White" Opacity="0"/>
+                    </Canvas.Background>
+                </Canvas>
+            </Border>
+            <Border  BorderBrush="Brown" Width="106" Height="106" Margin="0,15,0,0" BorderThickness="3">
+                <Canvas x:Name="InputCharacterLinkedStrokesPanel" >
+                    <Canvas.Background>
+                        <SolidColorBrush Color="White" Opacity="0"/>
+                    </Canvas.Background>
+                </Canvas>
+            </Border>
+            <ComboBox Width="106" Height="25" Margin="0,15,0,0" SelectedValue="{Binding Path=Mode, Converter={StaticResource ModeConveter}, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}">
+                <ComboBox.Items>
+                    <sys:String>Unconstraint</sys:String>
+                    <sys:String>Fast</sys:String>
+                    <sys:String>Radical Based</sys:String>
+                </ComboBox.Items>
+            </ComboBox>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Margin="25,10,0,0">
+            <Border  BorderBrush="Brown" Width="106" Height="106" BorderThickness="3">
+                <Canvas x:Name="ReferenceCharacterStrokesPanel" >
+                    <Canvas.Background>
+                        <SolidColorBrush Color="White" Opacity="0"/>
+                    </Canvas.Background>
+                </Canvas>
+            </Border>
+            <Border  BorderBrush="Brown" Width="106" Height="106" Margin="0,15,0,0"  BorderThickness="3">
+                <Canvas x:Name="ReferenceCharacterFeaturePointsPanel" >
+                    <Canvas.Background>
+                        <SolidColorBrush Color="White" Opacity="0"/>
+                    </Canvas.Background>
+                </Canvas>
+            </Border>
+            <Border  BorderBrush="Brown" Width="106" Height="106" Margin="0,15,0,0"  BorderThickness="3">
+                <Canvas x:Name="ReferenceCharacterLinkedStrokesPanel" >
+                    <Canvas.Background>
+                        <SolidColorBrush Color="White" Opacity="0"/>
+                    </Canvas.Background>
+                </Canvas>
+            </Border>
+            <ComboBox Width="106" Height="25" Margin="0,15,0,0" SelectedValue="{Binding Path=SampleBatch, Converter={StaticResource SampleBatchConveter}, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}">
+                <ComboBox.Items>
+                    <sys:String>Tidy Batch</sys:String>
+                    <sys:String>Cursive Batch</sys:String>
+                    <sys:String>Ligature Batch</sys:String>
+                </ComboBox.Items>
+            </ComboBox>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Margin="25,0,0,0">
+            <Button Content="Save as Reference" Width="130" Height="25" Margin="0,15,0,0" Click="Button_SaveReferenceCharacter_Click"/>
+            <Button Content="Character Match" Width="130" Height="25" Margin="0,15,0,0" Click="Button_CharacterMatch_Click"/>
+            <Button Content="Radical Match" Width="130" Height="25" Margin="0,15,0,0" Click="Button_RadicalMatch_Click"/>
+            <Button Content="Single Character Match" Width="130" Height="25" Margin="0,15,0,0" Click="Button_SingleCharacterMatch_Click"/>
+            <Button Content="Single Radical Match" Width="130" Height="25" Margin="0,15,0,0" Click="Button_SingleRadicalMatch_Click"/>
+            <Button Content="Clear" Width="130" Height="25" Margin="0,15,0,0" Click="Button_Clear_Click"/>
+            <Button Content="Save Test Sample" Width="130" Height="25" Margin="0,15,0,0" Click="Button_SaveTestSample_Click"/>
+            <Button Content="Test Single Sample" Width="130" Height="25" Margin="0,15,0,0" Click="Button_TestSingleSample_Click"/>
+            <Button Content="Test All Sample" Width="130" Height="25" Margin="0,15,0,0" Click="Button_TestAllSample_Click"/>          
+        </StackPanel>
+
+        <ListBox Name="ResultPanel" Margin="25,0,0,0" Width="270" ItemsSource="{Binding ScorePanel}" />
+    </StackPanel>
+        
+</Window>

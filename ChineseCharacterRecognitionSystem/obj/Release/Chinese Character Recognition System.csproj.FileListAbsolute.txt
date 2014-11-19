@@ -1,0 +1,17 @@
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\bin\Release\ChineseCharacterRecognitionSystem.exe.config
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\bin\Release\Database.mdb
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\bin\Release\ChineseCharacterRecognitionSystem.exe
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\bin\Release\ChineseCharacterRecognitionSystem.pdb
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\obj\Release\Chinese Character Recognition System.csprojResolveAssemblyReference.cache
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\obj\Release\MainWindow.g.cs
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\obj\Release\App.g.cs
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\obj\Release\ChineseCharacterRecognitionSystem_Content.g.cs
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\obj\Release\ChineseCharacterRecognitionSystem_MarkupCompile.cache
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\obj\Release\ChineseCharacterRecognitionSystem_MarkupCompile.lref
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\obj\Release\MainWindow.baml
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\obj\Release\ChineseCharacterRecognitionSystem.g.resources
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\obj\Release\ChineseCharacterRecognitionSystem.Properties.Resources.resources
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\obj\Release\Chinese Character Recognition System.csproj.GenerateResource.Cache
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\obj\Release\ChineseCharacterRecognitionSystem.exe
+C:\Users\Jerry\Google Drive\Chinese Character Recognition\Chinese Character Recognition System 2.0\ChineseCharacterRecognitionSystem\obj\Release\ChineseCharacterRecognitionSystem.pdb
